@@ -12,7 +12,7 @@
 
 ## Project Background
 
-WAWAC is analyzing the effectiveness  of their food drive program through the lens of their visitors and distributions. The following were metrics within the dataset:
+The organization is analyzing the effectiveness  of their food drive program through the lens of their visitors and distributions. The following were metrics within the dataset:
 
 * Number of monthly/hourly visitors
 * New visitors per month
